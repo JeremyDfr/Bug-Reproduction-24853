@@ -1,0 +1,7 @@
+{
+  "name": "bugReproduction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
